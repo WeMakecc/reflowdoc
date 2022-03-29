@@ -70,3 +70,10 @@ ReflowOS stores these data and returns two main outputs to PrimaSeconda: 
 
 - Flow data summary about resources used for transformed products 
 - Material passport with traceability of circular products
+
+--- 
+✉ costantino@wemake.cc
+
+♥ Thanks a lot to Ibrida Birra
+
+Read more about [Reflow](https://reflowproject.eu/)
