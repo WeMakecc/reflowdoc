@@ -2,11 +2,23 @@
 layout: default
 ---
 
+## Scenario
+
+[Ibrida Birra](https://ibridabirra.com/) is an organisation that produces locally branded beer made from unsold bread through partnerships with a network of neighbourhood bakeries and with a local brewery in Milan.  The branded beer is then sold in the neighbourhood. This is the context of the **PrimaSeconda** scenario, in which [ReflowOS](https://reflowos.dyne.org/) tools  are used to create a customized web application (PrimaSeconda for Ibrida Birra) to manage the steps of the process and to facilitate the job for the "orchestrator" of the process (Ibrida Birra Team).
+
 ![](assets/primaseconda01.gif)
+
+
+[Link to another page](./another-page.html).
+
+---
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
